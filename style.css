@@ -1,10 +1,10 @@
 :root{
     --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+    --verde: #57f4ff;
     --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --botao-ativo: #ff5100;
+    --botao-inativo: rgba(49, 33, 224, 0.5);
+    --texto-fundo: rgba(173, 166, 255, 0.3);
 }
 body {
     background-color: var(--cor-de-fundo);
